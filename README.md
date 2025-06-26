@@ -78,6 +78,3 @@ Quando era mais novo aprendi lógica fazendo jogos simples com programação vis
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
