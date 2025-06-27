@@ -69,7 +69,7 @@ Quando era mais novo aprendi lógica fazendo jogos simples com programação vis
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pedro-R1beiro&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">![Pedro-R1beiro's Stats](https://github-readme-stats.vercel.app/api?username=Pedro-R1beiro&theme=dracula&show_icons=true&hide_border=true&count_private=true)</div>  
 
 <br/>  
 
