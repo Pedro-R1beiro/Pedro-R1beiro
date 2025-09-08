@@ -2,7 +2,19 @@
   
 **`Desenvolvedor Back-End`**
 
-Quando era mais novo aprendi lógica fazendo jogos simples com programação visual. Depois de um tempo meu amigo me apresentou novas áreas deste universo tão vasto e me desafiou a criar um projeto do zero. Desde então venho estudando mais e me especializando em programação back-end, com foco em criação de sites utilizando PHP como linguagem principal.  
+Sou desenvolvedor Back-End com experiência em PHP, Laravel, MySQL e Python, capaz de estruturar sistemas completos e seguros. Tenho domínio da arquitetura MVC, criação e manutenção de APIs REST, implementação de autenticação com JWT e cookies, além de aplicar boas práticas de segurança como hash de informações sensíveis, prevenção de SQL Injection e configuração de CORS.
+
+Ao longo dos projetos que atuei como freelancer, desenvolvi CRUDs, estruturei consultas SQL para relatórios personalizados, implementei respostas personalizadas ao front-end com códigos HTTP adequados e garanti a qualidade do código através de testes unitários com PHPUnit. Também utilizei Git/GitHub para versionamento, assegurando organização, rastreabilidade e colaboração eficiente.
+
+🖥 Tenho amplo conhecimento nas seguintes linguagens e ferramentas:
+- PHP/Laravel (APIs REST, MVC, Blade, autenticação JWT);
+- MySQL/SQL (consultas, relatórios);
+- Python (automação, tratamento de dados);
+- Git/GitHub (versionamento, branches, colaboração);
+- Testes com PHPUnit (garantia de qualidade e consistência do código);
+- HTML/CSS (fundamentos para integração com o back-end).
+
+Estou constantemente buscando aprimorar minhas habilidades, entregando soluções práticas, seguras e de alto desempenho em projetos de Back-End.
   
 ---
 
